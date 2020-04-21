@@ -43,7 +43,7 @@ func init() {
 
 	// Cobra supports Persistent Flags which will work for this command
 	// and all subcommands, e.g.:
-	sendCmd.PersistentFlags().String("file", "", "File to upload")
+	// sendCmd.PersistentFlags().String("file", "", "File to upload")
 
 	// Cobra supports local flags which will only run when this command
 	// is called directly, e.g.:
